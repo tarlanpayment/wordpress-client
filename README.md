@@ -1,14 +1,14 @@
-<h1>**Tarlan Payments Gateway**</h1>
----
+**Tarlan Payments Gateway**
+=====================
 [Платежный сервис для приема платежей](https://tarlanpayments.kz)
 =====================
-###Payment package Tarlanpayments API for WooCommerce extension on Wordpress platform
+Payment package Tarlanpayments API for WooCommerce extension on Wordpress platform
 ---
-###Платежное расширение Tarlanpayments API для плагина WooCommerce на платформе Wordpress
+Платежное расширение Tarlanpayments API для плагина WooCommerce на платформе Wordpress
 ---
 Установка
 -----------------------------------
-###Инсталяция данного расширения подразумевает наличие расширения **[WooCommerce](https://wordpress.org/plugins/download-now-for-woocommerce/)** на платформе **[Wordpress](https://wordpress.org/download/)**
+Инсталяция данного расширения подразумевает наличие расширения **[WooCommerce](https://wordpress.org/plugins/download-now-for-woocommerce/)** на платформе **[Wordpress](https://wordpress.org/download/)**
 ---
  Плагин написан на основе **Wordpress версии 5.2.3** для **WooCommerce версии 3.1.6**
  -----------------------------------
