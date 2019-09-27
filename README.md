@@ -7,7 +7,7 @@
 ---
 Установка
 -----------------------------------
-#### Инсталяция данного расширения подразумевает наличие расширения **[WooCommerce](https://wordpress.org/plugins/download-now-for-woocommerce/)** на платформе **[Wordpress](https://wordpress.org/download/)**
+#### Инсталяция данного расширения подразумевает наличие расширения **[WooCommerce](https://ru.wordpress.org/plugins/woocommerce/)** на платформе **[Wordpress](https://wordpress.org/download/)**
 ---
  #### Плагин написан на основе **Wordpress версии 5.2.3** для **WooCommerce версии 3.7.0**
  -----------------------------------
