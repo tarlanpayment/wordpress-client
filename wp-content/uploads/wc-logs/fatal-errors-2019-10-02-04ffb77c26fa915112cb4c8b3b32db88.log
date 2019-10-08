@@ -1,0 +1,60 @@
+2019-10-02T04:32:01+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:32:02+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:32:11+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:32:12+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:32:34+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:33:10+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:33:18+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:33:36+00:00 CRITICAL syntax error, unexpected ''description'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:33:42+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:34:04+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T04:34:11+00:00 CRITICAL syntax error, unexpected ',' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 79
+
+2019-10-02T05:35:02+00:00 CRITICAL syntax error, unexpected ''refund_button'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 82
+
+2019-10-02T05:35:03+00:00 CRITICAL syntax error, unexpected ''refund_button'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 82
+
+2019-10-02T05:35:17+00:00 CRITICAL syntax error, unexpected ''refund_button'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 82
+
+2019-10-02T05:35:49+00:00 CRITICAL syntax error, unexpected ''refund_button'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 82
+
+2019-10-02T05:35:56+00:00 CRITICAL syntax error, unexpected ''refund_button'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 82
+
+2019-10-02T05:36:03+00:00 CRITICAL syntax error, unexpected ''refund_button'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 82
+
+2019-10-02T05:57:19+00:00 CRITICAL syntax error, unexpected '.' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 82
+
+2019-10-02T05:57:54+00:00 CRITICAL syntax error, unexpected '.' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 86
+
+2019-10-02T05:58:03+00:00 CRITICAL syntax error, unexpected '{', expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 86
+
+2019-10-02T06:07:57+00:00 CRITICAL syntax error, unexpected 'text' (T_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 86
+
+2019-10-02T06:17:20+00:00 CRITICAL syntax error, unexpected 'text' (T_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 87
+
+2019-10-02T06:18:02+00:00 CRITICAL syntax error, unexpected 'Возврат' (T_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 87
+
+2019-10-02T06:40:31+00:00 CRITICAL syntax error, unexpected '<' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 85
+
+2019-10-02T06:41:27+00:00 CRITICAL syntax error, unexpected '<' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-10-02T06:44:14+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 108
+
+2019-10-02T06:44:15+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 108
+
+2019-10-02T07:51:51+00:00 CRITICAL syntax error, unexpected ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 76
+
+2019-10-02T09:30:25+00:00 CRITICAL syntax error, unexpected ''label'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 83
+
+2019-10-02T09:30:27+00:00 CRITICAL syntax error, unexpected ''label'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 83
+

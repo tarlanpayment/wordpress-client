@@ -1,0 +1,115 @@
+2019-09-17T04:30:41+00:00 CRITICAL Uncaught Error: Call to undefined function wp_tarlan_order_page() in W:\domains\wordpress\wp-content\plugins\wp-tarlan\tarlan-payments.php:95
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WP_TARLAN->plugin_init('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-settings.php(525): do_action('init')
+#4 W:\domains\wordpress\wp-config.php(89): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-load.php(37): require_once('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\admin-ajax.php(22): require_once('W:\\domains\\word...')
+#7 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\wp-tarlan\tarlan-payments.php на строке 95
+
+2019-09-17T04:30:41+00:00 CRITICAL Uncaught Error: Call to undefined function wp_tarlan_order_page() in W:\domains\wordpress\wp-content\plugins\wp-tarlan\tarlan-payments.php:95
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WP_TARLAN->plugin_init('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-settings.php(525): do_action('init')
+#4 W:\domains\wordpress\wp-config.php(89): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-load.php(37): require_once('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\admin.php(34): require_once('W:\\domains\\word...')
+#7 W:\domains\wordpress\wp-admin\edit.php(10): require_once('W:\\domains\\word...')
+#8 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\wp-tarlan\tarlan-payments.php на строке 95
+
+2019-09-17T04:45:55+00:00 CRITICAL Uncaught Error: Call to undefined function ASD() in W:\domains\wordpress\wp-content\plugins\wp-tarlan\tarlan-payments.php:64
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WP_TARLAN->plugins_loaded_handler('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-settings.php(394): do_action('plugins_loaded')
+#4 W:\domains\wordpress\wp-config.php(89): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-load.php(37): require_once('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\admin.php(34): require_once('W:\\domains\\word...')
+#7 W:\domains\wordpress\wp-admin\edit.php(10): require_once('W:\\domains\\word...')
+#8 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\wp-tarlan\tarlan-payments.php на строке 64
+
+2019-09-17T04:58:02+00:00 CRITICAL Uncaught Error: Using $this when not in object context in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:31
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): add_options_menu('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-admin\includes\menu.php(154): do_action('admin_menu', '')
+#4 W:\domains\wordpress\wp-admin\menu.php(309): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-admin\admin.php(152): require('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\options-general.php(10): require_once('W:\\domains\\word...')
+#7 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 31
+
+2019-09-17T04:59:57+00:00 CRITICAL Uncaught Error: Using $this when not in object context in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:31
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): add_options_menu('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-admin\includes\menu.php(154): do_action('admin_menu', '')
+#4 W:\domains\wordpress\wp-admin\menu.php(309): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-admin\admin.php(152): require('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\options-general.php(10): require_once('W:\\domains\\word...')
+#7 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 31
+
+2019-09-17T05:02:07+00:00 CRITICAL Uncaught Error: Using $this when not in object context in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:31
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): add_options_menu('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-admin\includes\menu.php(154): do_action('admin_menu', '')
+#4 W:\domains\wordpress\wp-admin\menu.php(309): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-admin\admin.php(152): require('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\options-general.php(10): require_once('W:\\domains\\word...')
+#7 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 31
+
+2019-09-17T05:04:06+00:00 CRITICAL Uncaught Error: Call to undefined function tarlan_order() in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:37
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): plugin_init('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-settings.php(525): do_action('init')
+#4 W:\domains\wordpress\wp-config.php(89): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-load.php(37): require_once('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-cron.php(39): require_once('W:\\domains\\word...')
+#7 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 37
+
+2019-09-17T05:04:06+00:00 CRITICAL Uncaught Error: Call to undefined function tarlan_order() in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:37
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): plugin_init('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-settings.php(525): do_action('init')
+#4 W:\domains\wordpress\wp-config.php(89): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-load.php(37): require_once('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\admin.php(34): require_once('W:\\domains\\word...')
+#7 W:\domains\wordpress\wp-admin\options-general.php(10): require_once('W:\\domains\\word...')
+#8 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 37
+
+2019-09-17T09:04:31+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+
+2019-09-17T09:04:59+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+
+2019-09-17T09:05:00+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+
+2019-09-17T09:05:00+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+
+2019-09-17T09:05:01+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+
+2019-09-17T09:05:01+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+
+2019-09-17T09:07:14+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+
+2019-09-17T09:07:17+00:00 CRITICAL Cannot redeclare wpruby_custom_payment_is_woocommerce_active() (previously declared in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:51) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 58
+

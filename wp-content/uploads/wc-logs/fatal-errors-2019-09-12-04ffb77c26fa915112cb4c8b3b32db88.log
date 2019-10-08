@@ -1,0 +1,12 @@
+2019-09-12T09:11:53+00:00 CRITICAL Uncaught Error: Call to undefined function add_woocommerce_page() in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:11
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): tarlan_add_admin_page('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-admin\includes\menu.php(154): do_action('admin_menu', '')
+#4 W:\domains\wordpress\wp-admin\menu.php(309): require_once('W:\\domains\\word...')
+#5 W:\domains\wordpress\wp-admin\admin.php(152): require('W:\\domains\\word...')
+#6 W:\domains\wordpress\wp-admin\options-general.php(10): require_once('W:\\domains\\word...')
+#7 {main}
+  thrown в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 11
+

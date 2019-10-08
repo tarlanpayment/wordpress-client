@@ -1,0 +1,656 @@
+2019-09-30T05:24:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:26:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:28:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:30:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:32:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:34:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:36:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:38:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:40:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:42:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:44:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:46:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:48:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:50:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:52:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:54:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:56:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T05:58:23+00:00 CRITICAL syntax error, unexpected '}' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T06:00:02+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 178
+
+2019-09-30T06:00:03+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 178
+
+2019-09-30T06:00:17+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 178
+
+2019-09-30T08:11:32+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 136
+
+2019-09-30T09:54:55+00:00 CRITICAL Cannot use [] for reading в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 178
+
+2019-09-30T09:57:00+00:00 CRITICAL Cannot use [] for reading в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T09:57:51+00:00 CRITICAL Cannot use [] for reading в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 178
+
+2019-09-30T10:28:49+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:181
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 181
+
+2019-09-30T10:39:30+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:181
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 181
+
+2019-09-30T10:39:33+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:181
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 181
+
+2019-09-30T10:39:43+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:181
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 181
+
+2019-09-30T10:40:10+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:181
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 181
+
+2019-09-30T10:42:40+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:181
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 181
+
+2019-09-30T11:07:35+00:00 CRITICAL Uncaught Error: Call to a member function post() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-inclu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T11:07:44+00:00 CRITICAL syntax error, unexpected ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T11:34:46+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:183
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 183
+
+2019-09-30T11:50:17+00:00 CRITICAL Uncaught Error: Call to undefined function get_posted_data() in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-i в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T11:51:00+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api_' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T11:52:27+00:00 CRITICAL Uncaught Error: Call to undefined function get_posted_data() in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-i в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T11:52:47+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api_' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T11:53:01+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:183
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 183
+
+2019-09-30T12:06:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_posted_data() in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-i в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T12:06:45+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api_' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T12:06:50+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fun в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T12:07:01+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api_' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T12:07:14+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api_' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T12:07:17+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api_' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T12:08:34+00:00 CRITICAL Uncaught Error: Class 'woocommerce_api_' not found in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:177
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress\wp-includes\fu в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 177
+
+2019-09-30T12:08:53+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:183
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 183
+
+2019-09-30T12:10:50+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:183
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 183
+
+2019-09-30T12:28:53+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:183
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 183
+
+2019-09-30T12:29:17+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:184
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 184
+
+2019-09-30T12:29:50+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:185
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 185
+
+2019-09-30T12:30:32+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:185
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 185
+
+2019-09-30T12:31:08+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:186
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 186
+
+2019-09-30T12:33:19+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:187
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 187
+
+2019-09-30T12:37:36+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:38:47+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:38:51+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:39:19+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:41:47+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:42:21+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:42:50+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:42:53+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:43:23+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:43:47+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:46:24+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:46:30+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:189
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-30T12:48:01+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 179
+
+2019-09-30T12:48:55+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:49:24+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:49:25+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:50:18+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:50:33+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T12:50:54+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on null in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:188
+Stack trace:
+#0 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_Tarlan_Payments_Gateway->callback('')
+#1 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-api.php(148): do_action('woocommerce_api...')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_API->handle_api_requests(Object(WP))
+#5 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 W:\domains\wordpress\wp-includes\plugin.php(531): WP_Hook->do_action(Array)
+#7 W:\domains\wordpress\wp-includes\class-wp.php(387): do_action_ref_array('parse_request', Array)
+#8 W:\domains\wordpress\wp-includes\class-wp.php(737): WP->parse_request('')
+#9 W:\domains\wordpress в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 188
+
+2019-09-30T13:01:30+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 186
+
+2019-09-30T13:01:45+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 186
+

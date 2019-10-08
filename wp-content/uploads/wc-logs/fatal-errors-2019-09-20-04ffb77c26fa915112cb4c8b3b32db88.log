@@ -1,0 +1,32 @@
+2019-09-20T08:45:07+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 145
+
+2019-09-20T08:45:07+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 145
+
+2019-09-20T08:45:27+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 145
+
+2019-09-20T10:39:49+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on string in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:131
+Stack trace:
+#0 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(924): WC_Tarlan_Payments_Gateway->process_payment(137)
+#1 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1124): WC_Checkout->process_order_payment(137, 'tarlan_payments')
+#2 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#3 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_AJAX::checkout('')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(87): do_action('wc_ajax_checkou...')
+#7 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_AJAX::do_wc_aja в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 131
+
+2019-09-20T10:40:04+00:00 CRITICAL Uncaught Error: Call to a member function update_status() on string in W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php:131
+Stack trace:
+#0 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(924): WC_Tarlan_Payments_Gateway->process_payment(137)
+#1 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1124): WC_Checkout->process_order_payment(137, 'tarlan_payments')
+#2 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(462): WC_Checkout->process_checkout()
+#3 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_AJAX::checkout('')
+#4 W:\domains\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 W:\domains\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#6 W:\domains\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(87): do_action('wc_ajax_checkou...')
+#7 W:\domains\wordpress\wp-includes\class-wp-hook.php(286): WC_AJAX::do_wc_aja в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 131
+
+2019-09-20T10:42:32+00:00 CRITICAL syntax error, unexpected ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 140
+
+2019-09-20T10:42:35+00:00 CRITICAL syntax error, unexpected ')' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 140
+

@@ -1,0 +1,14 @@
+2019-09-25T05:56:59+00:00 CRITICAL syntax error, unexpected 'yum' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-25T05:57:00+00:00 CRITICAL syntax error, unexpected 'yum' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-25T05:57:11+00:00 CRITICAL syntax error, unexpected 'yum' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-25T05:57:25+00:00 CRITICAL syntax error, unexpected 'install' (T_STRING) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-25T05:57:29+00:00 CRITICAL syntax error, unexpected 'install' (T_STRING) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-25T05:58:38+00:00 CRITICAL syntax error, unexpected 'install' (T_STRING) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+
+2019-09-25T05:59:03+00:00 CRITICAL syntax error, unexpected 'install' (T_STRING) в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 189
+

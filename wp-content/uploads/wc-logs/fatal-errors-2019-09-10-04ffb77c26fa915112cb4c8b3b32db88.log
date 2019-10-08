@@ -1,0 +1,108 @@
+2019-09-10T10:39:54+00:00 CRITICAL syntax error, unexpected '/' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 31
+
+2019-09-10T10:39:55+00:00 CRITICAL syntax error, unexpected '/' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 31
+
+2019-09-10T10:39:55+00:00 CRITICAL syntax error, unexpected '/' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 31
+
+2019-09-10T11:19:15+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:19:16+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:19:16+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:24:34+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:24:36+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:24:36+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:24:53+00:00 CRITICAL syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:24:54+00:00 CRITICAL syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:24:54+00:00 CRITICAL syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:25:51+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:25:52+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:25:52+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:26:11+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:26:12+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:26:12+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:28:55+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:28:56+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:28:56+00:00 CRITICAL syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 18
+
+2019-09-10T11:30:29+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:30:30+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:30:30+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:31:52+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:31:53+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:31:53+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:32:42+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:32:43+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:32:43+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:32:53+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:32:54+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:32:54+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:33:29+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:33:30+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:33:30+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 103
+
+2019-09-10T11:33:55+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 88
+
+2019-09-10T11:33:56+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 88
+
+2019-09-10T11:33:56+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 88
+
+2019-09-10T11:34:16+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:17+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:17+00:00 CRITICAL syntax error, unexpected '$status_url' (T_VARIABLE), expecting '{' в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:25+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:26+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:26+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:45+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:46+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:34:47+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:45:22+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:45:23+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:45:23+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:45:58+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:45:59+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
+2019-09-10T11:45:59+00:00 CRITICAL syntax error, unexpected end of file в W:\domains\wordpress\wp-content\plugins\Tarlan Payments\tarlan-pay.php на строке 89
+
