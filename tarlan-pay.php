@@ -182,7 +182,6 @@ class WC_Tarlan_Payments_Gateway extends WC_Payment_Gateway
             'reference_id' => $order->id,
             'description' => 'wordpress woocommerce',
             'amount' => $order->get_total(),
-            'user_id' => $order->user_id,
             'is_test' => $this->is_test,
             'user_email' => $this->user_email
         ];
