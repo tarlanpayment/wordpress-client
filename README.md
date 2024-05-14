@@ -6,6 +6,7 @@
 #### Платежное расширение Tarlanpayments API для плагина WooCommerce на платформе Wordpress
 ---
 Установка
+
 -----------------------------------
 #### Инсталяция данного расширения подразумевает наличие расширения **[WooCommerce](https://ru.wordpress.org/plugins/woocommerce/)** на платформе **[Wordpress](https://wordpress.org/download/)**
 ---
